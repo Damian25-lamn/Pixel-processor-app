@@ -1,0 +1,9 @@
+# Archivos y carpetas generados
+node_modules/
+dist/
+.idea/
+*.tsbuildinfo
+
+# Archivos de interacción de IA
+AGENTS.md
+MEMORY.md
